@@ -1,5 +1,5 @@
 ## Ousmane BARRY
 
-From: SENEGAL
-Fav food: Thiebou Dieune
-Hobby: Dance
+From: SENEGAL <br>
+Fav food: Thiebou Dieune <br>
+Hobby: Dance <br>
